@@ -1,2 +1,3 @@
 # Ajay
-hi i am learner for programming
+# hello world .com
+# if anybody click my project then jump to github.com
